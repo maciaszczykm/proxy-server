@@ -1,8 +1,8 @@
-## Simple Proxy
+# Simple Proxy
 
 Simple proxy server.
 
-## Build
+## Setup
 
 Place project directory into your `GOPATH` and run:
 
