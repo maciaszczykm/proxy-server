@@ -16,7 +16,7 @@ $ go build
 Run:
 
 ```
-$ ./simple-proxy
+$ ./proxy-server
 ```
 
 You will find out PID after application will start. Then you can get traffic usage stats sending SIGUSR2 signal:
