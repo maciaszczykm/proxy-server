@@ -7,7 +7,7 @@ Simple proxy server.
 Place project directory into your `GOPATH` and run:
 
 ```
-$ cd simple-proxy
+$ cd proxy-server
 $ go build
 ```
 
