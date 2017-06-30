@@ -1,4 +1,4 @@
-# Simple Proxy
+# Proxy server
 
 Simple proxy server.
 
